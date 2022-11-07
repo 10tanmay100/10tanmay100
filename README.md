@@ -5,7 +5,7 @@
 
 - 🔭 My Aceademic **I have completed my graduation in mathematics on the year 2022 with 9.24 SGPA.**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **NLP and Computer Vision**
 
 - 🤝 I’m looking for **Job opportunity in the field of Data Science.**
 
