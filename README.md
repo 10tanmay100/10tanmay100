@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=10tanmay100" alt="10tanmay100" /></a> </p>
 
-- 🔭 My Aceademic **I have completed my graduation in mathematics on the year 2022 with 9.24 CGPA.**
+- 🔭 My Academic **I have completed my graduation in mathematics on the year 2022 with 9.24 CGPA.**
 
 - 🌱 I’m currently learning **NLP and Computer Vision**
 
