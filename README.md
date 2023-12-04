@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay Chakraborty</h1>
-<h3 align="center">A passionate AI/ML Enthusiast from India.</h3>
+<h3 align="center">A Machine Learning Engineer from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=10tanmay100" alt="10tanmay100" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NLP and Computer Vision**
 
-- 🤝 I’m working for a software company as **AI/ML Trainee**
+- 🤝 I’m working for a software company as **Machine Learning Engineer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/10tanmay100](https://github.com/10tanmay100)
 
