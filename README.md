@@ -5,7 +5,7 @@
 
 - 🔭 My Academic **I have completed my graduation in mathematics on the year 2022 with 9.24 CGPA.**
 
-- 🌱 I’m currently learning **NLP and Computer Vision**
+- 🌱 I’m currently learning **Generative AI**
 
 - 🤝 I’m working for a software company as **Machine Learning Engineer**
 
